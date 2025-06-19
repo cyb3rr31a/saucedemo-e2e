@@ -105,7 +105,8 @@ npx playwright show-report
 ## 🧑‍💻 Author
 
 **Rebecca Shirievo**  
-[LinkedIn]([https://www.linkedin.com/rebecca-shirievo](https://www.linkedin.com/in/rebecca-shirievo/)) • [GitHub]([https://github.com/cyb3rr31a](https://github.com/cyb3rr31a))
+LinkedIn: [https://www.linkedin.com/rebecca-shirievo](https://www.linkedin.com/in/rebecca-shirievo/)
+GitHub: [https://github.com/cyb3rr31a](https://github.com/cyb3rr31a)
 
 ---
 
