@@ -105,7 +105,7 @@ npx playwright show-report
 ## 🧑‍💻 Author
 
 **Rebecca Shirievo**  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/your-username)
+[LinkedIn]([https://www.linkedin.com/rebecca-shirievo](https://www.linkedin.com/in/rebecca-shirievo/)) • [GitHub]([https://github.com/cyb3rr31a](https://github.com/cyb3rr31a))
 
 ---
 
@@ -114,4 +114,4 @@ npx playwright show-report
 This project is for educational and portfolio purposes only. SauceDemo is owned by [Sauce Labs](https://saucelabs.com/).
 
 ---
-![CI](https://github.com/cyb3rr31a/saucedemo-e2e/workflows/CI%20for%20Next.js%20App/badge.svg)
+![CI](https://github.com/cyb3rr31a/saucedemo-e2e/workflows/Playwright%20Tests/badge.svg)
