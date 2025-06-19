@@ -112,3 +112,6 @@ npx playwright show-report
 ## 📝 License
 
 This project is for educational and portfolio purposes only. SauceDemo is owned by [Sauce Labs](https://saucelabs.com/).
+
+---
+![CI](https://github.com/cyb3rr31a/saucedemo-e2e/workflows/CI%20for%20Next.js%20App/badge.svg)
